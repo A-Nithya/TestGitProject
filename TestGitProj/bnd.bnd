@@ -1,0 +1,4 @@
+Bundle-Name: TestGitProj
+Bundle-SymbolicName: testgitproj
+Bundle-Version: 1.0.0
+Export-Package: testgitproj.constants
